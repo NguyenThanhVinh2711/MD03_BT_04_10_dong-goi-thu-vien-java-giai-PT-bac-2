@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BT-04-10-thu-vien-java-giai-phuong-trinh-bac-2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BT_04_10_thu_vien_java_giai_phuong_trinh_bac_2_jar</output-path>
+    <root id="archive" name="BT-04-10-thu-vien-java-giai-phuong-trinh-bac-2.jar">
+      <element id="module-output" name="BT-04-10-thu-vien-java-giai-phuong-trinh-bac-2" />
+    </root>
+  </artifact>
+</component>
